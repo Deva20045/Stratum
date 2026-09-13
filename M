@@ -1,0 +1,390 @@
+}];
+
+const t":"Regarding 1 Self-resolving, which of the following is correct?","options":["Thin plagues + Ne-Uve (ail + gem)","Hepatosplenomegaly + 30% patients","essential Fatty acid defeiency,","If persistent : Topical steroids"],"answer":3,"explain":"The key point is: If persistent : Topical steroids"},{"prompt":"Which age group is specified  for cold?","options":["Systemic steroids","Diet : maize {jowar","Autosomal EREESNS","Neonates"],"answer":3,"explain":"The key point is: Neonates"},{"prompt":"Regarding Symmetric. retiewar, which of the following is correct?","options":["Reticulor Guet-line pattern) : marbling, pattern","Seborrheic dermatitis like lesions (Retroaurieulor","Chronic inflammatory disease of unknown etiology,","oense, diffuse, dermal neutrophilic infiltrates,"],"answer":0,"explain":"The key point is: Reticulor Guet-line pattern) : marbling, pattern"},{"prompt":"Regarding Letterer Siwe disease +, which of the following is correct?","options":["lodides > * sarcoidosis","Lifelong Zine supplementes","one lesions : €0% patients","Hue + Violaceous. a i aa"],"answer":2,"explain":"The key point is: one lesions : €0% patients"},{"prompt":"Regarding = SO% patients, which of the following is correct?","options":["Chronic inflammatory disease of unknown etiology,","Seborrheic dermatitis like lesions (Retroaurieulor","oense, diffuse, dermal neutrophilic infiltrates,","Vc site + Face Above line joining angle of mouth to"],"answer":1,"explain":"The key point is: Seborrheic dermatitis like lesions (Retroaurieulor"},{"prompt":"Regarding and presternal area), which of the following is correct?","options":["If persistent : Topical steroids","Thin plagues + Ne-Uve (ail + gem)","Hepatosplenomegaly + 30% patients","Rdvontone : good cosmetic outcome"],"answer":2,"explain":"The key point is: Hepatosplenomegaly + 30% patients"},{"prompt":"Which course is described  for Tumour of : CD, T cells?","options":["Association + Carcinoma, of pancreas","Thick plagues + PuvA (Psoralen + VA)","indolent (Slow, chronically progressive)","Seborrheic dermatitis (dandruf-like feature)"],"answer":2,"explain":"The key point is: indolent (Slow, chronically progressive)"},{"prompt":"Regarding 3. Phototherapy +, which of the following is correct?","options":["Rdvontone : good cosmetic outcome","If persistent : Topical steroids","Thin plagues + Ne-Uve (ail + gem)","Hepatosplenomegaly + 30% patients"],"answer":2,"explain":"The key point is: Thin plagues + Ne-Uve (ail + gem)"},{"prompt":"Regarding 3. Phototherapy +, which of the following is correct?","options":["Association + Carcinoma, of pancreas","Thin plagues + Ne-Uve (ail + gem)","Hepatosplenomegaly + 30% patients","Thick plagues + PuvA (Psoralen + VA)"],"answer":3,"explain":"The key point is: Thick plagues + PuvA (Psoralen + VA)"},{"prompt":"Regarding ated : Sonic hedgehog pathway, which of the following is correct?","options":["Nasolabial dyssebacea (abnormal activity of sebaceous","Seborrheic dermatitis like lesions (Retroaurieulor","Chronic inflammatory disease of unknown etiology,","Vc site + Face Above line joining angle of mouth to"],"answer":3,"explain":"The key point is: Vc site + Face Above line joining angle of mouth to"},{"prompt":"Regarding lobule of ear), which of the following is correct?","options":["Hue + Violaceous. a i aa","m/C type # Nodular type","Pearly rolled out edge","lodides > * sarcoidosis"],"answer":1,"explain":"The key point is: m/C type # Nodular type"},{"prompt":"Regarding Rodent ulcer, which of the following is correct?","options":["m/C type # Nodular type","vitamin 83 deficiency","lodides > * sarcoidosis","Pearly rolled out edge"],"answer":3,"explain":"The key point is: Pearly rolled out edge"},{"prompt":"Regarding Rodent ulcer, which of the following is correct?","options":["Rdvontone : good cosmetic outcome","Thin plagues + Ne-Uve (ail + gem)","Hepatosplenomegaly + 30% patients","If persistent : Topical steroids"],"answer":0,"explain":"The key point is: Rdvontone : good cosmetic outcome"}]},{"id":"reinforce25","num":1,"zone":"focus","title":"🎯 Focused Reinforcement — High-Yield & Missed Topics","guide":{"bullets":["Additional questions for important topics that deserve reinforcement, including topics that can be easy to miss during a fast first pass.","These questions reinforce important concepts and commonly tested details."]},"questions":[{"prompt":"Phrynoderma is characterized by:","options":["Target lesions on distal extremities","Hyperkeratotic follicular papules over extensors","Painless genital ulcers","Flaccid vesicles on the trunk"],"answer":1,"explain":"The key point is shown by the correct option."},{"prompt":"Pellagra is due to deficiency of:","options":["Vitamin B2","Vitamin B3","Vitamin B12","Vitamin C"],"answer":1,"explain":"The key point is shown by the correct option."},{"prompt":"The classic triad of pellagra includes dermatitis, dementia and:","options":["Diplopia","Dysphagia","Dysuria","Diarrhoea"],"answer":3,"explain":"The key point is shown by the correct option."},{"prompt":"Acrodermatitis enteropathica is associated with defective intestinal absorption of:","options":["Iron","Calcium","Zinc","Copper"],"answer":2,"explain":"The key point is shown by the correct option."},{"prompt":"Erythema gyratum repens is characterized by:","options":["Golden-honey crusts","Concentric bands of scaling with a wood-grain pattern","Tense bullae","Pearly papules"],"answer":1,"explain":"The key point is shown by the correct option."},{"prompt":"Trousseau syndrome refers to:","options":["Peripheral neuropathy","Migratory thrombophlebitis","Mucosal ulceration","Digital vasospasm"],"answer":1,"explain":"The key point is shown by the correct option."},{"prompt":"The common histopathology of neutrophilic dermatoses highlighted is:","options":["Subepidermal bulla","Caseating granuloma","Dense diffuse dermal neutrophilic infiltrates","Suprabasal acantholysis"],"answer":2,"explain":"The key point is shown by the correct option."},{"prompt":"Sweet syndrome is described as an:","options":["Fungal infection","Inherited bullous disorder","Acute febrile neutrophilic dermatosis","Papulosquamous disease"],"answer":2,"explain":"The key point is shown by the correct option."},{"prompt":"Pyoderma gangrenosum is a misnomer because it is:","options":["Not associated with neutrophils","Not a bacterial infection","Not associated with ulcers","Not an inflammatory condition"],"answer":1,"explain":"The key point is shown by the correct option."},{"prompt":"Lichen nitidus lesions are characteristically:","options":["Tense bullae","Pearly nodules","Shiny papules","Golden crusted ulcers"],"answer":2,"explain":"The key point is shown by the correct option."},{"prompt":"Cutis marmorata is a physiological vascular response to:","options":["Heat","Cold","Exercise","UV radiation"],"answer":1,"explain":"The key point is shown by the correct option."},{"prompt":"The most specific immunohistochemistry marker listed for Langerhans cell histiocytosis is:","options":["CD3","CD20","CD34","CD207 (Langerin)"],"answer":3,"explain":"The key point is shown by the correct option."},{"prompt":"Letterer-Siwe disease is the:","options":["Acute disseminated form","Adult indolent form","Purely cutaneous form","Localized bone-only form"],"answer":0,"explain":"The key point is shown by the correct option."},{"prompt":"Mycosis fungoides is classified as a:","options":["Melanocytic tumor","Inherited keratinization disorder","Non-Hodgkin lymphoma of CD4 T cells","Bacterial skin infection"],"answer":2,"explain":"The key point is shown by the correct option."},{"prompt":"The early stage of mycosis fungoides begins with:","options":["Deep ulcers","Patch lesions","Tense bullae","Pearly nodules"],"answer":1,"explain":"The key point is shown by the correct option."},{"prompt":"Sezary syndrome is the leukemic variant of:","options":["Cutaneous T-cell lymphoma","B-cell lymphoma","Melanoma","Langerhans cell histiocytosis"],"answer":0,"explain":"The key point is shown by the correct option."},{"prompt":"Basal cell carcinoma is described as:","options":["A viral skin lesion","A metastatic skin tumor with early distant spread","The most common primary skin malignancy and locally invasive","A benign melanocytic nevus"],"answer":2,"explain":"The key point is shown by the correct option."},{"prompt":"The common nodular basal cell carcinoma lesion is described as a:","options":["Hyperkeratotic follicular papule","Golden-brown crusted plaque","Violaceous papule with scale","Translucent pearly nodule with surface telangiectasia"],"answer":3,"explain":"The key point is shown by the correct option."}]}]};
+Object.keys(EXHAUSTIVE_LINE_UNITS).forEach(id=>{
+  const ch=CHAPTERS.find(c=>c.id===id);
+  if(!ch) return;
+  ch.built=true;
+  ch.units = (EXHAUSTIVE_LINE_UNITS[id] || []).concat(ch.units || []);
+});
+
+/* ============================= STATE ============================= */
+const STORE_KEY = 'derm-app-state';
+let state = null;
+let app = { screen:'loading', chapterId:null, unitId:null, qIndex:0, order:[], answered:null, correctCount:0, xpGained:0, reviewQueue:[] };
+
+function defaultState(){ return { xp:0, streak:0, lastActive:null, unitStars:{}, boxes:{}, mistakes:[], testMode:false }; }
+
+function hasClaudeStorage(){ return typeof window.storage !== 'undefined' && window.storage && typeof window.storage.get === 'function'; }
+
+async function loadState(){
+  try{
+    if(hasClaudeStorage()){
+      const res = await window.storage.get(STORE_KEY, false);
+      if(res && res.value){ state = JSON.parse(res.value); }
+      else { state = defaultState(); }
+    } else {
+      const raw = localStorage.getItem(STORE_KEY);
+      state = raw ? JSON.parse(raw) : defaultState();
+    }
+  }catch(e){ state = defaultState(); }
+  touchStreak();
+  await saveState();
+  app.screen = 'dashboard';
+  render();
+}
+async function saveState(){
+  try{
+    if(hasClaudeStorage()){
+      await window.storage.set(STORE_KEY, JSON.stringify(state), false);
+    } else {
+      localStorage.setItem(STORE_KEY, JSON.stringify(state));
+    }
+  }catch(e){}
+}
+function touchStreak(){
+  const today = new Date().toDateString();
+  if(state.lastActive !== today){
+    const yesterday = new Date(Date.now() - 86400000).toDateString();
+    state.streak = (state.lastActive === yesterday) ? state.streak + 1 : 1;
+    state.lastActive = today;
+  }
+}
+
+/* ============================= HELPERS ============================= */
+function chapterById(id){ return CHAPTERS.find(c=>c.id===id); }
+function unitKey(chId, unitId){ return chId+'::'+unitId; }
+function qKey(chId, unitId, idx){ return chId+'::'+unitId+'::q'+idx; }
+function shuffle(arr){ const a=arr.slice(); for(let i=a.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]]; } return a; }
+function unitById(ch, id){ return ch.units.find(u=>u.id===id); }
+function isUnitUnlocked(ch, idx){ if(state.testMode) return true; if(idx===0) return true; const prev=ch.units[idx-1]; return state.unitStars[unitKey(ch.id, prev.id)] !== undefined; }
+function allMistakeCount(){ return state.mistakes.length; }
+function builtChapterCount(){ return CHAPTERS.filter(c=>c.built).length; }
+
+function recordAnswer(key, correct){
+  const box = (state.boxes[key] && state.boxes[key].box) || 0;
+  if(correct){
+    state.boxes[key] = { box: Math.min(box+1, 4) };
+    state.mistakes = state.mistakes.filter(id => id !== key);
+    state.xp += 10; return 10;
+  }else{
+    state.boxes[key] = { box: 0 };
+    if(!state.mistakes.includes(key)) state.mistakes.push(key);
+    state.xp += 2; return 2;
+  }
+}
+function starsFor(pct){ if(pct>=90) return 3; if(pct>=70) return 2; if(pct>=50) return 1; return 0; }
+
+/* ============================= RENDER ============================= */
+function render(){
+  const root = document.getElementById('root');
+  if(app.screen==='loading'){ root.innerHTML = '<div class="empty-note">Loading…</div>'; return; }
+  if(app.screen==='dashboard') return renderDashboard(root);
+  if(app.screen==='chapterList') return renderChapterList(root);
+  if(app.screen==='chapterMap') return renderChapterMap(root);
+  if(app.screen==='unit') return renderUnitIntro(root);
+  if(app.screen==='quiz') return renderQuiz(root);
+  if(app.screen==='results') return renderResults(root);
+  if(app.screen==='review-empty') return renderReviewEmpty(root);
+}
+
+function topbar(showBack, backFn){
+  return `<div class="topbar">
+    ${showBack ? `<button class="back-btn" onclick="${backFn}()">‹</button>` : `<div class="brand" onclick="goDashboard()"><span class="word">Stratum</span></div>`}
+    <div class="stats">
+      <div class="stat streak">🔥<span class="n mono">${state.streak}</span></div>
+      <div class="stat xp">✦<span class="n mono">${state.xp}</span></div>
+    </div>
+  </div>`;
+}
+
+function renderDashboard(root){
+  const built = builtChapterCount();
+  let html = topbar(false);
+  html += `<div class="dash-hero" onclick="goChapterList()">
+    <div class="eyebrow">Marrow Edition 8 · Companion</div>
+    <h1>Dermatology</h1>
+    <div class="sub">${built} of ${CHAPTERS.length} chapters built so far — original questions, guides, and spaced review for each.</div>
+    <div class="arrow">Browse chapters →</div>
+  </div>`;
+  html += `<div class="dash-stats">
+    <div class="dash-stat-card"><div class="v mono">${state.xp}</div><div class="l">Total XP</div></div>
+    <div class="dash-stat-card"><div class="v mono">${state.streak}</div><div class="l">Day streak</div></div>
+    <div class="dash-stat-card"><div class="v mono">${Object.keys(state.unitStars).length}</div><div class="l">Units done</div></div>
+  </div>`;
+  html += `<div style="margin:0 20px 10px; text-align:center;">
+    <button class="secondary-btn" style="margin-top:0; font-size:13px; padding:10px;" onclick="toggleTestMode()">${state.testMode ? '🔓 All units unlocked (tap to re-lock)' : '🔒 Unlock all units (testing)'}</button>
+  </div>`;
+  html += `<div style="height:60px;"></div>`;
+  if(allMistakeCount() > 0){
+    html += `<button class="review-fab" onclick="startReview()">↻ Review mistakes <span class="badge">${allMistakeCount()}</span></button>`;
+  }
+  root.innerHTML = html;
+}
+
+function renderChapterList(root){
+  let html = topbar(true, 'goDashboard');
+  html += `<div class="clist-title">Chapters</div>
+  <div class="clist-sub">25 chapters · Full chapter-by-chapter exam pass</div>`;
+  CHAPTERS.forEach(ch=>{
+    if(ch.built && ch.units){
+      const doneUnits = ch.units.filter(u => state.unitStars[unitKey(ch.id,u.id)] !== undefined).length;
+      html += `<div class="chapter-row built" onclick="openChapter('${ch.id}')">
+        <div class="cnum">${ch.num}</div>
+        <div class="ctitle">${ch.title}</div>
+        <div class="cprog">${doneUnits}/${ch.units.length} units</div>
+      </div>`;
+    }else{
+      html += `<div class="chapter-row locked" onclick="openChapter('${ch.id}')" style="cursor:pointer">
+        <div class="cnum">${ch.num}</div>
+        <div class="ctitle">${ch.title}</div>
+        <div class="ctag">Open</div>
+      </div>`;
+    }
+  });
+  html += `<div style="height:70px;"></div>`;
+  if(allMistakeCount() > 0){
+    html += `<button class="review-fab" onclick="startReview()">↻ Review mistakes <span class="badge">${allMistakeCount()}</span></button>`;
+  }
+  root.innerHTML = html;
+}
+
+function renderChapterMap(root){
+  const ch = chapterById(app.chapterId);
+  const zones = CH_ZONES[ch.id] || {};
+  let html = topbar(true, 'goChapterList');
+  html += `<div class="chapter-label">Chapter ${ch.num}</div><div class="chapter-title">${ch.title}</div>`;
+
+  if(!ch.units){
+    html += `<div class="guide-card" style="margin-top:22px">
+      <div class="guide-title">Source pages not included</div>
+      <div class="guide-text">The uploaded document ends at page 150, while this chapter is listed in the contents but its teaching pages are not present in this file. No questions have been generated here so that the project does not add material from outside the source.</div>
+    </div>`;
+    html += `<div style="height:70px;"></div>`;
+    root.innerHTML = html;
+    return;
+  }
+
+  let lastZone = null;
+  ch.units.forEach((u, idx)=>{
+    const zm = zones[u.zone] || {label:'📖 Line-by-Line Pass', hue:'gold'};
+    if(u.zone !== lastZone){
+      html += `<div class="zone zone-${zm.hue}"><div class="zone-heading"><span class="ln"></span>${zm.label}<span class="ln"></span></div>`;
+      lastZone = u.zone;
+    } else {
+      html += `<div class="zone zone-${zm.hue}">`;
+    }
+    const unlocked = isUnitUnlocked(ch, idx);
+    const stars = state.unitStars[unitKey(ch.id,u.id)];
+    const done = stars !== undefined;
+    let nodeClass = 'node ' + (done ? 'done' : unlocked ? ('hue-'+zm.hue+' unlocked') : 'locked');
+    const inner = done ? '✓' : unlocked ? u.num : '<span class="lock-ic">🔒</span>';
+    const onclick = unlocked ? `onclick="openUnit('${u.id}')"` : '';
+    html += `<div class="node-wrap">
+        <button class="${nodeClass}" ${onclick}>${inner}</button>
+        <div class="node-label">${u.title}</div>
+        <div class="node-stars">${done ? '★'.repeat(stars) + '☆'.repeat(3-stars) : ''}</div>
+      </div></div>`;
+    if(idx < ch.units.length-1) html += `<div class="zone-connector"></div>`;
+  });
+  html += `<div style="height:70px;"></div>`;
+  if(allMistakeCount() > 0){
+    html += `<button class="review-fab" onclick="startReview()">↻ Review mistakes <span class="badge">${allMistakeCount()}</span></button>`;
+  }
+  root.innerHTML = html;
+}
+
+function renderDiagram(kind){
+  if(kind==='epidermis'){
+    return `<div class="layer-diagram">
+      <div class="layer-band lb1"><span>Stratum corneum</span><span class="note">dead, keratin-packed</span></div>
+      <div class="layer-band lb2"><span>Stratum lucidum</span><span class="note">palms/soles only</span></div>
+      <div class="layer-band lb3"><span>Stratum granulosum</span><span class="note">keratohyaline granules</span></div>
+      <div class="layer-band lb4"><span>Stratum spinosum</span><span class="note">desmosomes</span></div>
+      <div class="layer-band lb5"><span>Stratum basale</span><span class="note">dividing layer</span></div>
+    </div>`;
+  }
+  if(kind==='rete'){
+    return `<div class="rete-diagram">
+      <div class="rete-box"><svg viewBox="0 0 200 60"><path d="M0,42 Q25,18 50,42 T100,42 T150,42 T200,42" fill="none" stroke="#E0AA52" stroke-width="4" stroke-linecap="round"/></svg><div class="cap"><b>Regular elongation</b><br>→ Psoriasis</div></div>
+      <div class="rete-box"><svg viewBox="0 0 200 60"><path d="M0,48 L20,14 L40,48 L60,14 L80,48 L100,14 L120,48 L140,14 L160,48 L180,14 L200,48" fill="none" stroke="#E85C7B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></svg><div class="cap"><b>Saw-toothed</b><br>→ Lichen planus</div></div>
+    </div>`;
+  }
+  return '';
+}
+
+function renderUnitIntro(root){
+  const ch = chapterById(app.chapterId);
+  const u = unitById(ch, app.unitId);
+  const zm = (CH_ZONES[ch.id] || {})[u.zone] || {label:'📖 Line-by-Line Pass', hue:'gold'};
+  let html = topbar(true, 'goChapterMap');
+  html += `<div class="screen"><div class="unit-hero">
+    <div class="eyebrow">Unit ${u.num} · ${zm.label}</div>
+    <h2>${u.title}</h2>
+  </div>`;
+  html += `<div class="guide-card"><h3>Guide</h3><ul>`;
+  u.guide.bullets.forEach(b=>{ html += `<li>${b}</li>`; });
+  html += `</ul>`;
+  if(u.guide.diagram) html += renderDiagram(u.guide.diagram);
+  if(u.guide.cells){
+    html += `<div style="margin-top:14px;">`;
+    u.guide.cells.forEach(c=>{ html += `<div class="cell-card ${c.cls}"><div class="cname">${c.name}</div><div class="cfact">${c.facts}</div></div>`; });
+    html += `</div>`;
+  }
+  html += `</div>`;
+  html += `<div class="meta-row"><span>${u.questions.length} questions</span><span>~${Math.max(2, Math.round(u.questions.length*0.6))} min</span></div>`;
+  html += `<button class="primary-btn" onclick="startQuiz('${u.id}')">Start quiz</button></div>`;
+  root.innerHTML = html;
+}
+
+function startQuiz(unitId){
+  const ch = chapterById(app.chapterId);
+  const u = unitById(ch, unitId);
+  app.unitId = unitId;
+  app.reviewQueue = [];
+  app.order = shuffle(u.questions.map((_,i)=>i));
+  app.qIndex = 0; app.answered = null; app.correctCount = 0; app.xpGained = 0;
+  app.screen = 'quiz';
+  render();
+}
+function startReview(){
+  const pool = [];
+  CHAPTERS.forEach(ch=>{
+    if(!ch.built) return;
+    ch.units.forEach(u=>{
+      u.questions.forEach((q, i)=>{
+        const key = qKey(ch.id, u.id, i);
+        if(state.mistakes.includes(key)) pool.push({chapterId:ch.id, unitId:u.id, qIndex:i, q});
+      });
+    });
+  });
+  if(pool.length===0){ app.screen='review-empty'; render(); return; }
+  app.chapterId = null; app.unitId = 'review';
+  app.reviewQueue = shuffle(pool);
+  app.order = app.reviewQueue.map((_,i)=>i);
+  app.qIndex = 0; app.answered=null; app.correctCount=0; app.xpGained=0;
+  app.screen='quiz';
+  render();
+}
+function currentQuestion(){
+  if(app.unitId==='review'){
+    const item = app.reviewQueue[app.order[app.qIndex]];
+    return { q:item.q, key:qKey(item.chapterId, item.unitId, item.qIndex) };
+  }
+  const ch = chapterById(app.chapterId);
+  const u = unitById(ch, app.unitId);
+  const realIdx = app.order[app.qIndex];
+  return { q:u.questions[realIdx], key:qKey(ch.id, u.id, realIdx) };
+}
+
+function renderQuiz(root){
+  const total = app.order.length;
+  const {q} = currentQuestion();
+  const pct = Math.round((app.qIndex/total)*100);
+  if(!app._optOrder || app._optOrderFor !== app.qIndex){ app._optOrder = shuffle(q.options.map((_,i)=>i)); app._optOrderFor = app.qIndex; }
+  const opts = app._optOrder.map(i=>q.options[i]);
+  const correctDisplay = app._optOrder.indexOf(q.answer);
+
+  let html = topbar(true, app.unitId==='review' ? 'goDashboard' : 'goUnitIntro');
+  html += `<div class="screen">
+    <div class="progress-track"><div class="progress-fill" style="width:${pct}%"></div></div>
+    <div class="q-count">${app.unitId==='review' ? 'REVIEW' : 'QUESTION'} ${app.qIndex+1} OF ${total}</div>
+    <div class="q-prompt">${q.prompt}</div>`;
+  opts.forEach((opt, i)=>{
+    let cls = 'option'; let disabled = '';
+    if(app.answered !== null){
+      disabled = 'disabled';
+      if(i === correctDisplay) cls += ' correct';
+      else if(i === app.answered) cls += ' wrong';
+      else cls += ' dim';
+    }
+    html += `<button class="${cls}" ${disabled} onclick="selectOption(${i}, ${correctDisplay})">${opt}</button>`;
+  });
+  if(app.answered !== null){
+    const ok = app.answered === correctDisplay;
+    html += `<div class="feedback ${ok?'ok':'no'}"><span class="ic">${ok?'✓':'✕'}</span><span>${q.explain}</span></div>`;
+    html += `<button class="primary-btn" onclick="nextQuestion()">${app.qIndex+1===total ? 'See results' : 'Continue'}</button>`;
+  }
+  html += `</div>`;
+  root.innerHTML = html;
+}
+
+function selectOption(i, correctDisplay){
+  if(app.answered !== null) return;
+  app.answered = i;
+  const {key} = currentQuestion();
+  const ok = i === correctDisplay;
+  if(ok) app.correctCount++;
+  const gained = recordAnswer(key, ok);
+  app.xpGained += gained;
+  saveState();
+  render();
+  showXpPopup(gained);
+}
+function showXpPopup(n){
+  const el = document.createElement('div'); el.className = 'xp-pop'; el.textContent = '+' + n + ' XP';
+  document.body.appendChild(el); setTimeout(()=>el.remove(), 1100);
+}
+function nextQuestion(){
+  if(app.qIndex+1 < app.order.length){ app.qIndex++; app.answered = null; render(); }
+  else{ finishQuiz(); }
+}
+function finishQuiz(){
+  const total = app.order.length;
+  const pct = Math.round((app.correctCount/total)*100);
+  if(app.unitId !== 'review'){
+    const stars = starsFor(pct);
+    const key = unitKey(app.chapterId, app.unitId);
+    const prevStars = state.unitStars[key];
+    state.unitStars[key] = (prevStars===undefined) ? stars : Math.max(prevStars, stars);
+    saveState();
+  }
+  app._resultsPct = pct;
+  app.screen = 'results';
+  render();
+}
+
+function renderResults(root){
+  const total = app.order.length;
+  const pct = app._resultsPct;
+  const stars = starsFor(pct);
+  let html = topbar(true, app.unitId==='review' ? 'goDashboard' : 'goChapterMap');
+  html += `<div class="results-wrap">
+    <div class="results-ring" style="--pct:${pct}"><div class="inner"><div class="pctnum mono">${pct}%</div><div class="pctlbl">ACCURACY</div></div></div>
+    <div class="results-stars">${'★'.repeat(stars)}${'☆'.repeat(3-stars)}</div>
+    <h2>${app.unitId==='review' ? 'Review complete' : 'Unit complete'}</h2>
+    <div class="results-row">
+      <div class="rstat"><div class="v">${app.correctCount}/${total}</div><div class="l">Correct</div></div>
+      <div class="rstat"><div class="v">+${app.xpGained}</div><div class="l">XP earned</div></div>
+      <div class="rstat"><div class="v">${state.streak}</div><div class="l">Day streak</div></div>
+    </div>`;
+  if(allMistakeCount() > 0){
+    html += `<button class="primary-btn" onclick="startReview()">Review ${allMistakeCount()} mistake${allMistakeCount()>1?'s':''}</button>`;
+  }
+  html += `<button class="secondary-btn" onclick="${app.unitId==='review' ? 'goDashboard' : 'goChapterMap'}()">Back</button></div>`;
+  root.innerHTML = html;
+}
+
+function renderReviewEmpty(root){
+  let html = topbar(true, 'goDashboard');
+  html += `<div class="results-wrap">
+    <div style="font-size:50px; margin-bottom:14px;">✨</div>
+    <h2>No mistakes to review</h2>
+    <div class="empty-note" style="padding:0 0 20px;">Every question you've missed so far has been cleared. Keep going with new units.</div>
+    <button class="primary-btn" onclick="goDashboard()">Back to dashboard</button>
+  </div>`;
+  root.innerHTML = html;
+}
+
+function goDashboard(){ app.screen='dashboard'; app.chapterId=null; app.unitId=null; app._optOrder=null; render(); }
+function toggleTestMode(){ state.testMode = !state.testMode; saveState(); render(); }
+function goChapterList(){ app.screen='chapterList'; app._optOrder=null; render(); }
+function openChapter(id){ app.chapterId=id; app.screen='chapterMap'; render(); }
+function goChapterMap(){ app.screen='chapterMap'; app._optOrder=null; render(); }
+function openUnit(id){ app.unitId=id; app.screen='unit'; render(); }
+function goUnitIntro(){ app.screen='unit'; render(); }
+
+loadState();
+</script>
+</body>
+</html>
